@@ -1,0 +1,28 @@
+.container {
+    text-align: center;
+    background-color: rgb(216, 227, 236);
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 20px;
+}
+
+h5 {
+    color: darkgrey;
+}
+
+img {
+    width: 1138px;
+    height: 760px;
+    top: 720px;
+    left: 71px;
+    text-align: center;
+    justify-content: center;
+}
+
+footer {
+    background-color: rgb(46,54,60);
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
